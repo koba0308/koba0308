@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**koba0308/koba0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 目次
+- 氏名
+- 所属
+- 持っているスキル
+- 趣味・ハマっていること
+## 氏名
+- 木場　飛翔晃（こば　ひとあき）
+## 所属
+- 原田学園キャリアデザイン専門学校　ITスペシャリスト科
+## 持っているスキル
+- C言語
+- Paython
+- Java
+## 趣味・ハマっていること
+- バレーボール
+- アニメ・漫画
